@@ -8,14 +8,12 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        **Analogical Reasoning in Contemporary Physics** is a PRIN 2022 collaborative research project in **philosophy of science** between Politecnico di Milano and Università degli Studi di Urbino Carlo Bo
   
   - block: collection
     content:
