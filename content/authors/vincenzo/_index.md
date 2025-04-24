@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Giovanni Valente
+title: Vincenzo Fano
 
 # Full name (for SEO)
-first_name: Giovanni
-last_name: Valente
+first_name: Vincenzo
+last_name: Fano
 
 # Username (this should match the folder name)
 authors:
-  - giovanni
+  - vincenzo
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,8 +18,8 @@ role: Principal Investigator
 
 # Organizations/Affiliations
 organizations:
-  - name: Politecnico di Milano
-    url: 'https://polimi.it/'
+  - name: Università degli Studi di Urbino Carlo Bo
+    url: 'https://www.uniurb.it/persone/vincenzo-fano'
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
@@ -56,16 +56,16 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:giovanni.valente@polimi.it'
-  - icon: globe
-    icon_pack: fas
-    link: https://giovannivalente.weebly.com/
+    link: 'mailto:vincenzo.fano@uniurb.it'
   - icon: philpapers
     icon_pack: ai
-    link: https://philpeople.org/profiles/giovanni-valente-1
-  - icon: orcid
+    link: https://philpeople.org/profiles/vincenzo-fano
+  - icon: google-scholar
     icon_pack: ai
-    link: https://orcid.org/0000-0003-4422-5140
+    link: https://scholar.google.com/citations?user=ImgTKzAAAAAJ&hl=en
+  - icon: academia
+    icon_pack: ai
+    link: https://independent.academia.edu/VincenzoFano
 
 
 # Link to a PDF of your resume/CV from the About widget.
