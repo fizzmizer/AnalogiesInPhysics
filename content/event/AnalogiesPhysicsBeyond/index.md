@@ -18,8 +18,8 @@ The first day of the conference will be devoted to case studies in contemporary 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-11-25T09:00:00Z'
-date_end: '2025-11-26T16:10:00Z'
+date: '2024-11-25T09:00:00Z'
+date_end: '2024-11-26T16:10:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
