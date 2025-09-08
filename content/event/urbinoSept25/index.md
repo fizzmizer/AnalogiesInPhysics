@@ -61,7 +61,7 @@ image:
   focal_point: Right
 
 url_code: ''
-url_pdf: ''
+url_pdf: '/PRINsept.pdf'
 url_slides: ''
 url_video: ''
 
